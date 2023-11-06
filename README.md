@@ -34,6 +34,5 @@ To build an executable you will need the `cx_Freeze` library. To install run the
 
 
 ## Authors
+- [@sindhoori-kaza](https://github.com/VsinK14)
 
-- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
-- [@rithikabadam](https://github.com/rithikabadam)
